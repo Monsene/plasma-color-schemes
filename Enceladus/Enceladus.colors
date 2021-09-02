@@ -21,7 +21,7 @@ IntensityEffect=0
 [Colors:Button]
 BackgroundAlternate=77,77,77
 BackgroundNormal=49,54,59
-DecorationFocus=54,190,174
+DecorationFocus=255,207,202
 DecorationHover=222,222,222
 ForegroundActive=61,174,233
 ForegroundInactive=199,199,199
@@ -49,7 +49,7 @@ ForegroundVisited=61,174,230
 [Colors:Selection]
 BackgroundAlternate=29,153,243
 BackgroundNormal=255,207,202
-DecorationFocus=54,190,174
+DecorationFocus=255,207,202
 DecorationHover=222,222,222
 ForegroundActive=252,252,252
 ForegroundInactive=222,222,222
@@ -63,7 +63,7 @@ ForegroundVisited=189,195,199
 [Colors:Tooltip]
 BackgroundAlternate=77,77,77
 BackgroundNormal=61,63,74
-DecorationFocus=54,190,174
+DecorationFocus=255,207,202
 DecorationHover=222,222,222
 ForegroundActive=61,174,233
 ForegroundInactive=199,199,199
@@ -76,8 +76,8 @@ ForegroundVisited=127,140,141
 
 [Colors:View]
 BackgroundAlternate=49,54,59
-BackgroundNormal=49,61,67
-DecorationFocus=54,190,174
+BackgroundNormal=33,37,55
+DecorationFocus=255,207,202
 DecorationHover=222,222,222
 ForegroundActive=61,174,233
 ForegroundInactive=199,199,199
@@ -90,8 +90,8 @@ ForegroundVisited=127,140,141
 
 [Colors:Window]
 BackgroundAlternate=77,77,77
-BackgroundNormal=49,61,67
-DecorationFocus=54,190,174
+BackgroundNormal=33,37,55
+DecorationFocus=255,207,202
 DecorationHover=222,222,222
 ForegroundActive=61,174,233
 ForegroundInactive=199,199,199
@@ -103,7 +103,7 @@ ForegroundPositive=104,222,151
 ForegroundVisited=127,140,141
 
 [General]
-ColorScheme=Enceladus
+ColorScheme=Awave
 Name=Enceladus
 shadeSortColumn=true
 
